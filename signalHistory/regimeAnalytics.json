@@ -1,0 +1,42 @@
+[
+  {
+    "regime": "RANGE",
+    "totalTrades": 22,
+    "wins": 0,
+    "losses": 11,
+    "open": 11,
+    "winRate": 0,
+    "averagePnL": -0.65,
+    "totalPnL": -14.300000000000002
+  },
+  {
+    "regime": "CHOPPY",
+    "totalTrades": 44,
+    "wins": 11,
+    "losses": 0,
+    "open": 33,
+    "winRate": 100,
+    "averagePnL": 1.22,
+    "totalPnL": 53.78999999999999
+  },
+  {
+    "regime": "STRONG_TREND",
+    "totalTrades": 22,
+    "wins": 22,
+    "losses": 0,
+    "open": 0,
+    "winRate": 100,
+    "averagePnL": 4.56,
+    "totalPnL": 100.32000000000001
+  },
+  {
+    "regime": "TREND",
+    "totalTrades": 22,
+    "wins": 22,
+    "losses": 0,
+    "open": 0,
+    "winRate": 100,
+    "averagePnL": 2.34,
+    "totalPnL": 51.589999999999996
+  }
+]

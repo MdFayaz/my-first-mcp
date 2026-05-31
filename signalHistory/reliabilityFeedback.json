@@ -1,0 +1,17 @@
+{
+  "regimeMultipliers": {
+    "RANGE": 0.85,
+    "CHOPPY": 1.15,
+    "STRONG_TREND": 1.15,
+    "TREND": 1.15
+  },
+  "volatilityMultipliers": {
+    "NORMAL_VOLATILITY": 1.1
+  },
+  "environmentMultipliers": {
+    "CHOPPY_NORMAL_VOLATILITY": 1.15,
+    "RANGE_NORMAL": 0.85,
+    "STRONG_TREND_NORMAL_VOLATILITY": 1.15,
+    "TREND_NORMAL_VOLATILITY": 1.15
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "environment": "RANGE_COMPRESSION",
+    "totalTrades": 11,
+    "wins": 0,
+    "losses": 0,
+    "open": 11,
+    "winRate": 0,
+    "averagePnL": 0,
+    "totalPnL": 0
+  },
+  {
+    "environment": "CHOPPY_NORMAL_VOLATILITY",
+    "totalTrades": 33,
+    "wins": 11,
+    "losses": 0,
+    "open": 22,
+    "winRate": 100,
+    "averagePnL": 1.51,
+    "totalPnL": 49.83
+  },
+  {
+    "environment": "CHOPPY_EXPANSION",
+    "totalTrades": 11,
+    "wins": 0,
+    "losses": 0,
+    "open": 11,
+    "winRate": 0,
+    "averagePnL": 0.36,
+    "totalPnL": 3.959999999999999
+  },
+  {
+    "environment": "RANGE_NORMAL",
+    "totalTrades": 11,
+    "wins": 0,
+    "losses": 11,
+    "open": 0,
+    "winRate": 0,
+    "averagePnL": -1.3,
+    "totalPnL": -14.300000000000002
+  },
+  {
+    "environment": "STRONG_TREND_NORMAL_VOLATILITY",
+    "totalTrades": 22,
+    "wins": 22,
+    "losses": 0,
+    "open": 0,
+    "winRate": 100,
+    "averagePnL": 4.56,
+    "totalPnL": 100.32000000000001
+  },
+  {
+    "environment": "TREND_NORMAL_VOLATILITY",
+    "totalTrades": 22,
+    "wins": 22,
+    "losses": 0,
+    "open": 0,
+    "winRate": 100,
+    "averagePnL": 2.34,
+    "totalPnL": 51.589999999999996
+  }
+]

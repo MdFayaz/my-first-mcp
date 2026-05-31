@@ -1,0 +1,32 @@
+[
+  {
+    "volatilityRegime": "COMPRESSION",
+    "totalTrades": 11,
+    "wins": 0,
+    "losses": 0,
+    "open": 11,
+    "winRate": 0,
+    "averagePnL": 0,
+    "totalPnL": 0
+  },
+  {
+    "volatilityRegime": "NORMAL_VOLATILITY",
+    "totalTrades": 88,
+    "wins": 55,
+    "losses": 11,
+    "open": 22,
+    "winRate": 83.33,
+    "averagePnL": 2.13,
+    "totalPnL": 187.44
+  },
+  {
+    "volatilityRegime": "EXPANSION",
+    "totalTrades": 11,
+    "wins": 0,
+    "losses": 0,
+    "open": 11,
+    "winRate": 0,
+    "averagePnL": 0.36,
+    "totalPnL": 3.959999999999999
+  }
+]

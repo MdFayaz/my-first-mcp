@@ -1,0 +1,90 @@
+{
+  "timestamp": "2026-05-31T05:26:21.735Z",
+  "bestSymbols": [
+    {
+      "symbol": "ITC.NS",
+      "winRate": "100.00",
+      "totalSignals": 41
+    },
+    {
+      "symbol": "RELIANCE.NS",
+      "winRate": "100.00",
+      "totalSignals": 41
+    },
+    {
+      "symbol": "BHARTIARTL.NS",
+      "winRate": "100.00",
+      "totalSignals": 41
+    },
+    {
+      "symbol": "HDFCBANK.NS",
+      "winRate": "100.00",
+      "totalSignals": 41
+    },
+    {
+      "symbol": "TCS.NS",
+      "winRate": "95.12",
+      "totalSignals": 41
+    },
+    {
+      "symbol": "LT.NS",
+      "winRate": "51.22",
+      "totalSignals": 41
+    },
+    {
+      "symbol": "SBIN.NS",
+      "winRate": "51.22",
+      "totalSignals": 41
+    },
+    {
+      "symbol": "AXISBANK.NS",
+      "winRate": "0.00",
+      "totalSignals": 41
+    },
+    {
+      "symbol": "INFY.NS",
+      "winRate": "0.00",
+      "totalSignals": 41
+    },
+    {
+      "symbol": "ICICIBANK.NS",
+      "winRate": "0.00",
+      "totalSignals": 41
+    }
+  ],
+  "bestSignals": [
+    {
+      "signal": "BUY",
+      "winRate": "100.00",
+      "totalSignals": 15
+    },
+    {
+      "signal": "STRONG SELL",
+      "winRate": "88.10",
+      "totalSignals": 210
+    },
+    {
+      "signal": "STRONG BUY",
+      "winRate": "54.55",
+      "totalSignals": 11
+    },
+    {
+      "signal": "SELL",
+      "winRate": "33.91",
+      "totalSignals": 115
+    },
+    {
+      "signal": "HOLD",
+      "winRate": "0.00",
+      "totalSignals": 59
+    }
+  ],
+  "qualifiedAccuracy": "69.37%",
+  "gradeDistribution": {
+    "A+": 113,
+    "A": 132,
+    "B": 0,
+    "C": 140,
+    "FAILED": 25
+  }
+}

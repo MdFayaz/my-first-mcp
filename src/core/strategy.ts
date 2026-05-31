@@ -7,7 +7,7 @@ import { applyAdaptiveWeights } from "./scoring/adaptiveScoring.js";
 import { applyAdaptiveConfidence } from "./scoring/adaptiveConfidence.js";
 import { applyRegimeScoring } from "./scoring/regimeScoring.js";
 import { getEnvironmentWeighting } from "./scoring/environmentWeighting.js";
-import { getEnvironmentMultiplier } from "../performance/environmentReliability.js";
+import { loadReliabilityFeedback } from "../performance/loadReliabilityFeedback.js";
 
 interface MarketIndicators {
 	rsi: number;
@@ -39,15 +39,44 @@ export async function generateMultiTimeframeSignal(symbol: string) {
 		(combinedScore * environment.scoreMultiplier).toFixed(2),
 	);
 
+	const reliability = loadReliabilityFeedback();
+
+	const reliabilityRegimeMultiplier =
+		reliability.regimeMultipliers[tf1h.regime?.regime ?? ""] ?? 1;
+
+	const reliabilityVolatilityMultiplier =
+		reliability.volatilityMultipliers[
+			tf1h.volatility?.volatilityRegime ?? ""
+		] ?? 1;
+
+	const reliabilityEnvironmentMultiplier =
+		reliability.environmentMultipliers[environment.environment] ?? 1;
+
 	let signal = "HOLD";
 
-	if (environmentAdjustedScore >= 50) {
+	const reliabilityMultiplier = Number(
+		Math.min(
+			1.5,
+			reliabilityRegimeMultiplier *
+				reliabilityVolatilityMultiplier *
+				reliabilityEnvironmentMultiplier,
+		).toFixed(2),
+	);
+	// ======================
+	// APPLY ADAPTIVE WEIGHTS
+	// ======================
+
+	const finalEnvironmentScore = Number(
+		(environmentAdjustedScore * reliabilityMultiplier).toFixed(2),
+	);
+
+	if (finalEnvironmentScore >= 50) {
 		signal = "STRONG BUY";
-	} else if (environmentAdjustedScore >= 20) {
+	} else if (finalEnvironmentScore >= 20) {
 		signal = "BUY";
-	} else if (environmentAdjustedScore <= -50) {
+	} else if (finalEnvironmentScore <= -50) {
 		signal = "STRONG SELL";
-	} else if (environmentAdjustedScore <= -20) {
+	} else if (finalEnvironmentScore <= -20) {
 		signal = "SELL";
 	}
 
@@ -69,17 +98,6 @@ export async function generateMultiTimeframeSignal(symbol: string) {
 				environment.confidenceMultiplier,
 		),
 	);
-	// ======================
-	// APPLY ADAPTIVE WEIGHTS
-	// ======================
-
-	const environmentMultiplier = getEnvironmentMultiplier(
-		environment.environment,
-	);
-
-	const finalEnvironmentScore = Number(
-		(environmentAdjustedScore * environmentMultiplier).toFixed(2),
-	);
 
 	const adaptive = applyAdaptiveWeights(symbol, signal, finalEnvironmentScore);
 
@@ -93,6 +111,10 @@ export async function generateMultiTimeframeSignal(symbol: string) {
 		signal,
 
 		confidence,
+	);
+	const reliabilityAdjustedConfidence = Math.min(
+		100,
+		adaptiveConfidence.adjustedConfidence * reliabilityMultiplier,
 	);
 
 	const reasons = [
@@ -123,10 +145,19 @@ export async function generateMultiTimeframeSignal(symbol: string) {
 		environmentScoreMultiplier: environment.scoreMultiplier,
 
 		environmentConfidenceMultiplier: environment.confidenceMultiplier,
+		rawEnvironmentScore: environmentAdjustedScore,
 
-		environmentReliabilityMultiplier: environmentMultiplier,
+		finalEnvironmentScore,
 
-		confidence: Number(adaptiveConfidence.adjustedConfidence.toFixed(2)),
+		reliabilityMultiplier,
+
+		reliabilityRegimeMultiplier,
+
+		reliabilityVolatilityMultiplier,
+
+		reliabilityEnvironmentMultiplier,
+
+		confidence: Number(reliabilityAdjustedConfidence.toFixed(2)),
 
 		adaptiveConfidence: adaptiveConfidence.adjustedConfidence,
 
@@ -159,6 +190,11 @@ export async function generateMultiTimeframeSignal(symbol: string) {
 		executionRegime: tf5m.regime,
 		volatility: tf1h.volatility,
 		executionVolatility: tf5m.volatility,
+		baseConfidence: adaptiveConfidence.adjustedConfidence,
+
+		reliabilityAdjustedConfidence: Number(
+			reliabilityAdjustedConfidence.toFixed(2),
+		),
 	};
 }
 

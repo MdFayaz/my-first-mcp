@@ -49,8 +49,19 @@ export function formatDecision(result: any) {
 		environmentConfidenceMultiplier:
 			result.environmentConfidenceMultiplier ?? 1,
 
-		environmentReliabilityMultiplier:
-			result.environmentReliabilityMultiplier ?? 1,
+		reliabilityMultiplier: result.reliabilityMultiplier ?? 1,
+
+		rawEnvironmentScore: result.rawEnvironmentScore ?? 0,
+
+		finalEnvironmentScore: result.finalEnvironmentScore ?? 0,
+
+		reliabilityRegimeMultiplier: result.reliabilityRegimeMultiplier ?? 1,
+
+		reliabilityVolatilityMultiplier:
+			result.reliabilityVolatilityMultiplier ?? 1,
+
+		reliabilityEnvironmentMultiplier:
+			result.reliabilityEnvironmentMultiplier ?? 1,
 
 		volatilityRegime: result.volatility?.volatilityRegime ?? "",
 
@@ -66,5 +77,9 @@ export function formatDecision(result: any) {
 		higherTimeframeRegime: result.higherTimeframeRegime?.regime ?? "UNKNOWN",
 
 		executionRegime: result.executionRegime?.regime ?? "UNKNOWN",
+
+		baseConfidence: result.baseConfidence ?? 0,
+
+		reliabilityAdjustedConfidence: result.reliabilityAdjustedConfidence ?? 0,
 	};
 }

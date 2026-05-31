@@ -117,7 +117,7 @@ export function logSignals(signals: any[]) {
 	// ======================
 
 	const combined = [...existing, ...formatted];
-	console.log("LOG_FILE PATH:", LOG_FILE);
+
 	fs.writeFileSync(LOG_FILE, JSON.stringify(combined, null, 2));
 
 	console.log(`Logged ${formatted.length} signals`);

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-31T05:26:24.646Z",
+  "timestamp": "2026-05-31T08:52:07.322Z",
   "signalWeights": {
     "BUY": 1.15,
     "STRONG SELL": 1.15,
@@ -13,8 +13,8 @@
     "BHARTIARTL.NS": 1.1,
     "HDFCBANK.NS": 1.1,
     "TCS.NS": 1.1,
-    "LT.NS": 1,
-    "SBIN.NS": 1,
+    "LT.NS": 0.92,
+    "SBIN.NS": 0.92,
     "AXISBANK.NS": 0.92,
     "INFY.NS": 0.92,
     "ICICIBANK.NS": 0.92

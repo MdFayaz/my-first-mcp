@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-05-31T05:26:21.735Z",
+  "timestamp": "2026-05-31T08:52:05.125Z",
   "bestSymbols": [
     {
       "symbol": "ITC.NS",
       "winRate": "100.00",
-      "totalSignals": 41
+      "totalSignals": 50
     },
     {
       "symbol": "RELIANCE.NS",
       "winRate": "100.00",
-      "totalSignals": 41
+      "totalSignals": 50
     },
     {
       "symbol": "BHARTIARTL.NS",
       "winRate": "100.00",
-      "totalSignals": 41
+      "totalSignals": 50
     },
     {
       "symbol": "HDFCBANK.NS",
       "winRate": "100.00",
-      "totalSignals": 41
+      "totalSignals": 50
     },
     {
       "symbol": "TCS.NS",
-      "winRate": "95.12",
-      "totalSignals": 41
+      "winRate": "96.00",
+      "totalSignals": 50
     },
     {
       "symbol": "LT.NS",
-      "winRate": "51.22",
-      "totalSignals": 41
+      "winRate": "42.00",
+      "totalSignals": 50
     },
     {
       "symbol": "SBIN.NS",
-      "winRate": "51.22",
-      "totalSignals": 41
+      "winRate": "42.00",
+      "totalSignals": 50
     },
     {
       "symbol": "AXISBANK.NS",
       "winRate": "0.00",
-      "totalSignals": 41
+      "totalSignals": 50
     },
     {
       "symbol": "INFY.NS",
       "winRate": "0.00",
-      "totalSignals": 41
+      "totalSignals": 50
     },
     {
       "symbol": "ICICIBANK.NS",
       "winRate": "0.00",
-      "totalSignals": 41
+      "totalSignals": 50
     }
   ],
   "bestSignals": [
@@ -60,8 +60,8 @@
     },
     {
       "signal": "STRONG SELL",
-      "winRate": "88.10",
-      "totalSignals": 210
+      "winRate": "87.12",
+      "totalSignals": 264
     },
     {
       "signal": "STRONG BUY",
@@ -70,21 +70,21 @@
     },
     {
       "signal": "SELL",
-      "winRate": "33.91",
-      "totalSignals": 115
+      "winRate": "29.32",
+      "totalSignals": 133
     },
     {
       "signal": "HOLD",
       "winRate": "0.00",
-      "totalSignals": 59
+      "totalSignals": 77
     }
   ],
-  "qualifiedAccuracy": "69.37%",
+  "qualifiedAccuracy": "69.82%",
   "gradeDistribution": {
-    "A+": 113,
-    "A": 132,
+    "A+": 149,
+    "A": 141,
     "B": 0,
-    "C": 140,
-    "FAILED": 25
+    "C": 176,
+    "FAILED": 34
   }
 }

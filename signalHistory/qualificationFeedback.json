@@ -1,0 +1,26 @@
+{
+  "RANGE_COMPRESSION": {
+    "minConfidence": 80,
+    "minScore": 35
+  },
+  "CHOPPY_NORMAL_VOLATILITY": {
+    "minConfidence": 60,
+    "minScore": 20
+  },
+  "CHOPPY_EXPANSION": {
+    "minConfidence": 80,
+    "minScore": 35
+  },
+  "RANGE_NORMAL": {
+    "minConfidence": 80,
+    "minScore": 35
+  },
+  "STRONG_TREND_NORMAL_VOLATILITY": {
+    "minConfidence": 60,
+    "minScore": 20
+  },
+  "TREND_NORMAL_VOLATILITY": {
+    "minConfidence": 60,
+    "minScore": 20
+  }
+}

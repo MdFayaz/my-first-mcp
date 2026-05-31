@@ -466,5 +466,101 @@
     "buyAccuracy": "80.77%",
     "sellAccuracy": "68.92%",
     "qualifiedAccuracy": "69.37%"
+  },
+  {
+    "timestamp": "2026-05-31T06:46:45.775Z",
+    "totalSignals": 430,
+    "wins": 255,
+    "losses": 27,
+    "open": 148,
+    "winRate": "90.43%",
+    "averagePnL": "2.07%",
+    "buyAccuracy": "80.77%",
+    "sellAccuracy": "68.62%",
+    "qualifiedAccuracy": "69.49%"
+  },
+  {
+    "timestamp": "2026-05-31T06:53:25.001Z",
+    "totalSignals": 440,
+    "wins": 260,
+    "losses": 28,
+    "open": 152,
+    "winRate": "90.28%",
+    "averagePnL": "2.07%",
+    "buyAccuracy": "80.77%",
+    "sellAccuracy": "68.48%",
+    "qualifiedAccuracy": "69.55%"
+  },
+  {
+    "timestamp": "2026-05-31T07:05:26.524Z",
+    "totalSignals": 450,
+    "wins": 265,
+    "losses": 29,
+    "open": 156,
+    "winRate": "90.14%",
+    "averagePnL": "2.06%",
+    "buyAccuracy": "80.77%",
+    "sellAccuracy": "68.35%",
+    "qualifiedAccuracy": "69.60%"
+  },
+  {
+    "timestamp": "2026-05-31T07:13:32.001Z",
+    "totalSignals": 460,
+    "wins": 270,
+    "losses": 30,
+    "open": 160,
+    "winRate": "90.00%",
+    "averagePnL": "2.05%",
+    "buyAccuracy": "80.77%",
+    "sellAccuracy": "68.22%",
+    "qualifiedAccuracy": "69.65%"
+  },
+  {
+    "timestamp": "2026-05-31T07:38:49.830Z",
+    "totalSignals": 470,
+    "wins": 275,
+    "losses": 31,
+    "open": 164,
+    "winRate": "89.87%",
+    "averagePnL": "2.04%",
+    "buyAccuracy": "80.77%",
+    "sellAccuracy": "68.10%",
+    "qualifiedAccuracy": "69.70%"
+  },
+  {
+    "timestamp": "2026-05-31T08:19:04.398Z",
+    "totalSignals": 480,
+    "wins": 280,
+    "losses": 32,
+    "open": 168,
+    "winRate": "89.74%",
+    "averagePnL": "2.04%",
+    "buyAccuracy": "80.77%",
+    "sellAccuracy": "67.98%",
+    "qualifiedAccuracy": "69.74%"
+  },
+  {
+    "timestamp": "2026-05-31T08:39:44.360Z",
+    "totalSignals": 490,
+    "wins": 285,
+    "losses": 33,
+    "open": 172,
+    "winRate": "89.62%",
+    "averagePnL": "2.03%",
+    "buyAccuracy": "80.77%",
+    "sellAccuracy": "67.87%",
+    "qualifiedAccuracy": "69.78%"
+  },
+  {
+    "timestamp": "2026-05-31T08:52:00.393Z",
+    "totalSignals": 500,
+    "wins": 290,
+    "losses": 34,
+    "open": 176,
+    "winRate": "89.51%",
+    "averagePnL": "2.03%",
+    "buyAccuracy": "80.77%",
+    "sellAccuracy": "67.76%",
+    "qualifiedAccuracy": "69.82%"
   }
 ]

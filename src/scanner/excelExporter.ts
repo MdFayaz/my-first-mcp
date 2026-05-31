@@ -82,7 +82,17 @@ export async function exportScannerResults(results: any[]) {
 			key: "confidence",
 			width: 14,
 		},
+		{
+			header: "Base Conf",
+			key: "baseConfidence",
+			width: 14,
+		},
 
+		{
+			header: "Learned Conf",
+			key: "reliabilityAdjustedConfidence",
+			width: 14,
+		},
 		{
 			header: "Adaptive Confidence",
 			key: "adaptiveConfidence",
@@ -111,6 +121,24 @@ export async function exportScannerResults(results: any[]) {
 			header: "Score",
 			key: "score",
 			width: 12,
+		},
+
+		{
+			header: "Raw Score",
+			key: "rawEnvironmentScore",
+			width: 14,
+		},
+
+		{
+			header: "Reliability",
+			key: "reliabilityMultiplier",
+			width: 14,
+		},
+
+		{
+			header: "Final Score",
+			key: "finalEnvironmentScore",
+			width: 14,
 		},
 
 		{
@@ -179,9 +207,21 @@ export async function exportScannerResults(results: any[]) {
 		},
 
 		{
-			header: "Env Reliability",
-			key: "environmentReliabilityMultiplier",
-			width: 16,
+			header: "Rel Regime",
+			key: "reliabilityRegimeMultiplier",
+			width: 14,
+		},
+
+		{
+			header: "Rel Vol",
+			key: "reliabilityVolatilityMultiplier",
+			width: 14,
+		},
+
+		{
+			header: "Rel Env",
+			key: "reliabilityEnvironmentMultiplier",
+			width: 14,
 		},
 		{
 			header: "Regime",
@@ -212,7 +252,17 @@ export async function exportScannerResults(results: any[]) {
 			key: "volatilityATRRatio",
 			width: 15,
 		},
+		{
+			header: "Min Conf",
+			key: "qualificationMinConfidence",
+			width: 12,
+		},
 
+		{
+			header: "Min Score",
+			key: "qualificationMinScore",
+			width: 12,
+		},
 		{
 			header: "Execution Volatility",
 			key: "executionVolatilityRegime",
@@ -255,7 +305,7 @@ export async function exportScannerResults(results: any[]) {
 
 	sheet.autoFilter = {
 		from: "A1",
-		to: "AE1",
+		to: "AP1",
 	};
 
 	// ======================
@@ -346,27 +396,29 @@ export async function exportScannerResults(results: any[]) {
 			};
 		});
 
-		const envReliabilityColumn = sheet.getColumn(
-			"environmentReliabilityMultiplier",
-		).number;
+		const reliabilityColumn = sheet.getColumn("reliabilityMultiplier").number;
 
-		const envCell = row.getCell(envReliabilityColumn);
+		const reliabilityCell = row.getCell(reliabilityColumn);
 
-		const multiplier = Number(envCell.value ?? 1);
+		const reliabilityMultiplier = Number(reliabilityCell.value ?? 1);
 
-		if (multiplier >= 1.15) {
-			envCell.fill = {
+		if (reliabilityMultiplier >= 1.15) {
+			reliabilityCell.fill = {
 				type: "pattern",
 				pattern: "solid",
-				fgColor: { argb: "C6EFCE" }, // green
+				fgColor: {
+					argb: "C6EFCE",
+				},
 			};
 		}
 
-		if (multiplier <= 0.9) {
-			envCell.fill = {
+		if (reliabilityMultiplier <= 0.9) {
+			reliabilityCell.fill = {
 				type: "pattern",
 				pattern: "solid",
-				fgColor: { argb: "F4CCCC" }, // red
+				fgColor: {
+					argb: "F4CCCC",
+				},
 			};
 		}
 	});

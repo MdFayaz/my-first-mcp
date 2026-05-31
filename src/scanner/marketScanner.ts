@@ -4,9 +4,12 @@ import { formatDecision } from "./decisionFormatter.js";
 
 import { generateMultiTimeframeSignal } from "../core/strategy.js";
 import { logSignals } from "../performance/signalLogger.js";
+import { loadQualificationFeedback } from "../performance/loadQualificationFeedback.js";
 
 export async function scanMarket() {
-	const results = [];
+	const qualificationRules = loadQualificationFeedback();
+
+	const results: any[] = [];
 
 	for (const symbol of symbols) {
 		console.log(`Scanning ${symbol}...`);
@@ -16,17 +19,23 @@ export async function scanMarket() {
 
 			const formatted = formatDecision(result);
 
-			// const shouldInclude =
-			// 	formatted.confidence >= 70 && Math.abs(formatted.score) >= 25;
+			const environment = formatted.environment ?? "";
 
-			// if (shouldInclude) {
-			// 	results.push(formatted);
-			// }
+			const rule = qualificationRules[environment] ?? {
+				minConfidence: 70,
+				minScore: 25,
+			};
+
 			const atrQualified = (formatted.ATRPercent ?? 0) >= 0.15;
 
+			(formatted as any).qualificationMinConfidence = rule.minConfidence;
+
+			(formatted as any).qualificationMinScore = rule.minScore;
+
 			(formatted as any).qualified =
-				formatted.confidence >= 70 &&
-				Math.abs(formatted.score) >= 25 &&
+				formatted.confidence >= rule.minConfidence &&
+				Math.abs(formatted.finalEnvironmentScore ?? formatted.score) >=
+					rule.minScore &&
 				atrQualified
 					? "YES"
 					: "NO";
@@ -53,7 +62,10 @@ export async function scanMarket() {
 			return signalDiff;
 		}
 
-		return Math.abs(b.score) - Math.abs(a.score);
+		return (
+			Math.abs(b.finalEnvironmentScore ?? b.score) -
+			Math.abs(a.finalEnvironmentScore ?? a.score)
+		);
 	});
 	logSignals(results);
 

@@ -1,15 +1,23 @@
-export const logger = {
-	info: (...args: unknown[]) => {
-		console.error("[INFO]", ...args);
-	},
+import fs from "fs";
 
-	error: (...args: unknown[]) => {
-		console.error("[ERROR]", ...args);
-	},
+export class Logger {
+	private readonly logFile = "logs/app.log";
 
-	debug: (...args: unknown[]) => {
-		if (process.env.DEBUG) {
-			console.error("[DEBUG]", ...args);
-		}
-	},
-};
+	info(message: string): void {
+		this.write("INFO", message);
+	}
+
+	error(message: string): void {
+		this.write("ERROR", message);
+	}
+
+	private write(level: string, message: string): void {
+		fs.mkdirSync("logs", {
+			recursive: true,
+		});
+
+		const line = `[${new Date().toISOString()}] ` + `[${level}] ${message}\n`;
+
+		fs.appendFileSync(this.logFile, line, "utf8");
+	}
+}

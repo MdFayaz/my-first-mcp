@@ -1,0 +1,37 @@
+[
+  {
+    "signalType": "BUY",
+    "suggestedHoldDays": 3,
+    "historicalReturn": 0.88,
+    "historicalWinRate": 100,
+    "sampleSize": 47
+  },
+  {
+    "signalType": "HOLD",
+    "suggestedHoldDays": 1,
+    "historicalReturn": 0.07,
+    "historicalWinRate": 47.68,
+    "sampleSize": 151
+  },
+  {
+    "signalType": "SELL",
+    "suggestedHoldDays": 5,
+    "historicalReturn": 1.3,
+    "historicalWinRate": 69.57,
+    "sampleSize": 164
+  },
+  {
+    "signalType": "STRONG SELL",
+    "suggestedHoldDays": 5,
+    "historicalReturn": 3.48,
+    "historicalWinRate": 100,
+    "sampleSize": 358
+  },
+  {
+    "signalType": "STRONG BUY",
+    "suggestedHoldDays": 3,
+    "historicalReturn": 1.96,
+    "historicalWinRate": 100,
+    "sampleSize": 50
+  }
+]

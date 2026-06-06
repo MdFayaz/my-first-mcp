@@ -8,8 +8,8 @@
     "minScore": 20
   },
   "CHOPPY_EXPANSION": {
-    "minConfidence": 80,
-    "minScore": 35
+    "minConfidence": 60,
+    "minScore": 20
   },
   "RANGE_NORMAL": {
     "minConfidence": 80,

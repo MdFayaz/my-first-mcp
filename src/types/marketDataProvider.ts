@@ -22,4 +22,11 @@ export interface MarketDataProvider {
 		interval: MarketInterval,
 		range?: MarketRange,
 	): Promise<Candle[]>;
+
+	getHistoricalCandles(
+		symbol: string,
+		interval: MarketInterval,
+		startDate: string,
+		endDate: string,
+	): Promise<Candle[]>;
 }

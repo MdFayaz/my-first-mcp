@@ -1,0 +1,7 @@
+{
+  "sampleSize": 260,
+  "averageMFE": 2.98,
+  "averageMAE": -0.69,
+  "bestMFE": 6.69,
+  "worstMAE": -3.9
+}

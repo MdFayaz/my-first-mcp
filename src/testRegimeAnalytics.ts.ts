@@ -1,3 +1,3 @@
-import { generateRegimeAnalytics } from "./performance/regimeAnalytics.js";
+import { generateRegimeAnalytics } from "./analytics/regimeAnalytics.js";
 
 generateRegimeAnalytics();

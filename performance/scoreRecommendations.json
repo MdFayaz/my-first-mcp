@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-06-05T10:00:53.791Z",
+  "sampleSize": 1,
+  "recommendations": [
+    {
+      "category": "SYSTEM",
+      "target": "GLOBAL",
+      "adjustment": 0,
+      "reason": "Insufficient sample size",
+      "confidence": "LOW"
+    }
+  ]
+}

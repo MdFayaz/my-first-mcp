@@ -1,0 +1,4952 @@
+[
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3975.78,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.83,
+    "maePercent": -2.06
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1269.79,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1164.59,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0.94,
+    "maePercent": -9.82
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 306.39,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 10.18,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.6,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.4
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2343.76,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 5.08,
+    "maePercent": -4.85
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1387.96,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 990.22,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.35,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1860.26,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.45,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 770.6,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.86,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3975.78,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.83,
+    "maePercent": -2.06
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1269.79,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1164.59,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0.94,
+    "maePercent": -9.82
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 306.39,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 10.18,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.6,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.4
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2343.76,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 5.08,
+    "maePercent": -4.85
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1387.96,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 990.22,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.35,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1860.26,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.45,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 770.6,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.86,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3975.78,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.83,
+    "maePercent": -2.06
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1269.79,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1164.59,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0.94,
+    "maePercent": -9.82
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 306.39,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 10.18,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.6,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.4
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2343.76,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 5.08,
+    "maePercent": -4.85
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1387.96,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 990.22,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.35,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1860.26,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.45,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 770.6,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.86,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3975.78,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.83,
+    "maePercent": -2.06
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1269.79,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1164.59,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0.94,
+    "maePercent": -9.82
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 306.39,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 10.18,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.6,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.4
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2343.76,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 5.08,
+    "maePercent": -4.85
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1387.96,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 990.22,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.35,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1860.26,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.45,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 770.6,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.86,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3975.78,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.83,
+    "maePercent": -2.06
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1269.79,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1164.59,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0.94,
+    "maePercent": -9.82
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 306.39,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 10.18,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.6,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.4
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2343.76,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 5.08,
+    "maePercent": -4.85
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1387.96,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 990.22,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.35,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1860.26,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.45,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 770.6,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.86,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3975.78,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.83,
+    "maePercent": -2.06
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1269.79,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1164.59,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0.94,
+    "maePercent": -9.82
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 306.39,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 10.18,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.6,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.4
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2343.76,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 5.08,
+    "maePercent": -4.85
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1387.96,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 990.22,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.35,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1860.26,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.45,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 770.6,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.86,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3975.78,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.83,
+    "maePercent": -2.06
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1269.79,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1164.59,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0.94,
+    "maePercent": -9.82
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 306.39,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 10.18,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.6,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.4
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2343.76,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 5.08,
+    "maePercent": -4.85
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1387.96,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 990.22,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.35,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1860.26,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.45,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 770.6,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.86,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3975.78,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.83,
+    "maePercent": -2.06
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1269.79,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1164.59,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0.94,
+    "maePercent": -9.82
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 306.39,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 10.18,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.6,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.4
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2343.76,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 5.08,
+    "maePercent": -4.85
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1387.96,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 990.22,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.35,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1860.26,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.45,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 770.6,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.86,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3975.78,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.83,
+    "maePercent": -2.06
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1269.79,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1164.59,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0.94,
+    "maePercent": -9.82
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 306.39,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 10.18,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.6,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.4
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2343.76,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 5.08,
+    "maePercent": -4.85
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1387.96,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 990.22,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.35,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1860.26,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.45,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 770.6,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.86,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3975.78,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.83,
+    "maePercent": -2.06
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1269.79,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1164.59,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0.94,
+    "maePercent": -9.82
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 306.39,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 10.18,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.6,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.4
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2343.76,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 5.08,
+    "maePercent": -4.85
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1387.96,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 990.22,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.35,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1860.26,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.45,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 770.6,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.86,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3975.78,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.83,
+    "maePercent": -2.06
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1269.79,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1164.59,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0.94,
+    "maePercent": -9.82
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 306.39,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 10.18,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.6,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.4
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2343.76,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 5.08,
+    "maePercent": -4.85
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1387.96,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 990.22,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.35,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1860.26,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.45,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 770.6,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.86,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3975.78,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.83,
+    "maePercent": -2.06
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1269.79,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1164.59,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0.94,
+    "maePercent": -9.82
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 306.39,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 10.18,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.6,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.4
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2343.76,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 5.08,
+    "maePercent": -4.85
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1387.96,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 990.22,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.35,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1860.26,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.45,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 770.6,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.86,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3975.78,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.83,
+    "maePercent": -2.06
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1269.79,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1164.59,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0.94,
+    "maePercent": -9.82
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 306.39,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 10.18,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.6,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.4
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2343.76,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 5.08,
+    "maePercent": -4.85
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1387.96,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 990.22,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.35,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1860.26,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.45,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 770.6,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.86,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3975.78,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.83,
+    "maePercent": -2.06
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1269.79,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 306.39,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 10.18,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1164.59,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0.94,
+    "maePercent": -9.82
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.6,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.4
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2343.76,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 5.08,
+    "maePercent": -4.85
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1387.96,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 990.22,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.35,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1860.26,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.45,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 770.6,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.86,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3975.78,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.83,
+    "maePercent": -2.06
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1269.79,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 306.39,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 10.18,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1164.59,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0.94,
+    "maePercent": -9.82
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.6,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.4
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2343.76,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 5.08,
+    "maePercent": -4.85
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1387.96,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 990.22,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.35,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1860.26,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.45,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 770.6,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.86,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.61,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.86,
+    "maePercent": -2.03
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1164.94,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 9.78,
+    "maePercent": -0.97
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.45,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.48,
+    "maePercent": -2.41
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2340.38,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.94,
+    "maePercent": -5
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 987.83,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.13,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1385.8,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.17,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 769.73,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.75,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1859.31,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.41,
+    "maePercent": -0.04
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1269.87,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.12,
+    "maePercent": -3.36
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 305.3,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.86,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.27,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.87,
+    "maePercent": -2.02
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1164.99,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 9.78,
+    "maePercent": -0.98
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2339.62,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.55,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.41
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 769.52,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.73,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 987.58,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.1,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1858.86,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.38,
+    "maePercent": -0.06
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 305.12,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.81,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1385.34,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.14,
+    "maePercent": 0
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.1,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.13,
+    "maePercent": -3.35
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.3,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.87,
+    "maePercent": -2.02
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1164.99,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 9.78,
+    "maePercent": -0.98
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.08,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.13,
+    "maePercent": -3.35
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2339.57,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.91,
+    "maePercent": -5.04
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1385.31,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.14,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1858.83,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.38,
+    "maePercent": -0.06
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 769.49,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.72,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 305.1,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.8,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 987.53,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.1,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.55,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.41
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.28,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.87,
+    "maePercent": -2.02
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 9.78,
+    "maePercent": -0.98
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2339.4,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.9,
+    "maePercent": -5.04
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.09,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.13,
+    "maePercent": -3.35
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1858.77,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.38,
+    "maePercent": -0.07
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1385.13,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.12,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 305.07,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.79,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 987.4,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.08,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 769.44,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.72,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.54,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.41
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.43,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.86,
+    "maePercent": -2.02
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.1,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 9.77,
+    "maePercent": -0.99
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2338.74,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.16,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -3.34
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.96,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 5.04,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.57,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.4
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1858.2,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.35,
+    "maePercent": -0.1
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 769.15,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.68,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1384.36,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.07,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.85,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.73,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.39,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 3.86,
+    "maePercent": -2.02
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.16,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.78,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.11,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.77,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.7,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 769,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.66,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1858.05,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.34,
+    "maePercent": -0.1
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.54,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.49,
+    "maePercent": -2.41
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2338.25,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.85,
+    "maePercent": -5.1
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1384.03,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 6.05,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0.98,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -3.34
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -2.42
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": -0.12
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": -0.12
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0.98,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 4.99,
+    "maePercent": 0
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -2.42
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -3.34
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4128,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1153.5999755859375,
+    "mfePercent": 0.98,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1312.5999755859375,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -3.34
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 760.5,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 292.3999938964844,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1369,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1287.800048828125,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -2.42
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1860,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": -0.12
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 3.47,
+    "maePercent": -0.36
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "entryPrice": 1257.39,
+    "currentPrice": 1242,
+    "highestPrice": 1261.9000244140625,
+    "lowestPrice": 1213.699951171875,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "LT.NS",
+    "entryPrice": 3974.04,
+    "currentPrice": 3953.199951171875,
+    "highestPrice": 4105.7998046875,
+    "lowestPrice": 3894,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "SBIN.NS",
+    "entryPrice": 986.44,
+    "currentPrice": 970.4500122070312,
+    "highestPrice": 974,
+    "lowestPrice": 937.2000122070312,
+    "mfePercent": 0,
+    "maePercent": 0
+  },
+  {
+    "symbol": "INFY.NS",
+    "entryPrice": 1165.07,
+    "currentPrice": 1222.5999755859375,
+    "highestPrice": 1278.9000244140625,
+    "lowestPrice": 1173.699951171875,
+    "mfePercent": 0,
+    "maePercent": -9.77
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "entryPrice": 1270.15,
+    "currentPrice": 1255.199951171875,
+    "highestPrice": 1293.199951171875,
+    "lowestPrice": 1230.300048828125,
+    "mfePercent": 3.14,
+    "maePercent": -1.81
+  },
+  {
+    "symbol": "TCS.NS",
+    "entryPrice": 2336.69,
+    "currentPrice": 2241.699951171875,
+    "highestPrice": 2457.39990234375,
+    "lowestPrice": 2224.800048828125,
+    "mfePercent": 4.79,
+    "maePercent": -5.17
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "entryPrice": 768.67,
+    "currentPrice": 753.6500244140625,
+    "highestPrice": 756.9000244140625,
+    "lowestPrice": 733.1500244140625,
+    "mfePercent": 4.62,
+    "maePercent": 0
+  },
+  {
+    "symbol": "ITC.NS",
+    "entryPrice": 304.52,
+    "currentPrice": 277,
+    "highestPrice": 288.54998779296875,
+    "lowestPrice": 275.20001220703125,
+    "mfePercent": 9.63,
+    "maePercent": 0
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "entryPrice": 1382.79,
+    "currentPrice": 1313.199951171875,
+    "highestPrice": 1335.5,
+    "lowestPrice": 1300.300048828125,
+    "mfePercent": 5.97,
+    "maePercent": 0
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "entryPrice": 1857.72,
+    "currentPrice": 1824.0999755859375,
+    "highestPrice": 1842,
+    "lowestPrice": 1777.4000244140625,
+    "mfePercent": 4.32,
+    "maePercent": 0
+  }
+]

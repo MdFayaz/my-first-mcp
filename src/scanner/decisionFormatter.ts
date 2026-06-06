@@ -81,5 +81,7 @@ export function formatDecision(result: any) {
 		baseConfidence: result.baseConfidence ?? 0,
 
 		reliabilityAdjustedConfidence: result.reliabilityAdjustedConfidence ?? 0,
+
+		entryPrice: result.entryPrice,
 	};
 }

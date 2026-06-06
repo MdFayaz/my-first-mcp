@@ -1,0 +1,159 @@
+{
+  "generatedAt": "2026-06-04T01:27:00.834Z",
+  "rules": [
+    {
+      "confidence": 100,
+      "winRate": 96.4,
+      "expectancy": 2.73,
+      "completedTrades": 250,
+      "reliable": true,
+      "positionSizeMultiplier": 1.5,
+      "capitalAllocationPercent": 15,
+      "riskPerTradePercent": 1.5,
+      "recommendation": "AGGRESSIVE"
+    },
+    {
+      "confidence": 66.67,
+      "winRate": 100,
+      "expectancy": 2.22,
+      "completedTrades": 58,
+      "reliable": true,
+      "positionSizeMultiplier": 1,
+      "capitalAllocationPercent": 10,
+      "riskPerTradePercent": 1,
+      "recommendation": "NORMAL"
+    },
+    {
+      "confidence": 81,
+      "winRate": 100,
+      "expectancy": 0.74,
+      "completedTrades": 25,
+      "reliable": true,
+      "positionSizeMultiplier": 1,
+      "capitalAllocationPercent": 10,
+      "riskPerTradePercent": 1,
+      "recommendation": "NORMAL"
+    },
+    {
+      "confidence": 81.23,
+      "winRate": 0,
+      "expectancy": 0,
+      "completedTrades": 21,
+      "reliable": true,
+      "positionSizeMultiplier": 0,
+      "capitalAllocationPercent": 0,
+      "riskPerTradePercent": 0,
+      "recommendation": "AVOID"
+    },
+    {
+      "confidence": 90,
+      "winRate": 90,
+      "expectancy": 1.4,
+      "completedTrades": 10,
+      "reliable": false,
+      "positionSizeMultiplier": 0,
+      "capitalAllocationPercent": 0,
+      "riskPerTradePercent": 0,
+      "recommendation": "WATCH"
+    },
+    {
+      "confidence": 85.5,
+      "winRate": 0,
+      "expectancy": 0,
+      "completedTrades": 4,
+      "reliable": false,
+      "positionSizeMultiplier": 0,
+      "capitalAllocationPercent": 0,
+      "riskPerTradePercent": 0,
+      "recommendation": "WATCH"
+    },
+    {
+      "confidence": 93.15,
+      "winRate": 100,
+      "expectancy": 0.74,
+      "completedTrades": 3,
+      "reliable": false,
+      "positionSizeMultiplier": 0,
+      "capitalAllocationPercent": 0,
+      "riskPerTradePercent": 0,
+      "recommendation": "WATCH"
+    },
+    {
+      "confidence": 76.67,
+      "winRate": 100,
+      "expectancy": 3.87,
+      "completedTrades": 3,
+      "reliable": false,
+      "positionSizeMultiplier": 0,
+      "capitalAllocationPercent": 0,
+      "riskPerTradePercent": 0,
+      "recommendation": "WATCH"
+    },
+    {
+      "confidence": 64.17,
+      "winRate": 0,
+      "expectancy": 0,
+      "completedTrades": 3,
+      "reliable": false,
+      "positionSizeMultiplier": 0,
+      "capitalAllocationPercent": 0,
+      "riskPerTradePercent": 0,
+      "recommendation": "WATCH"
+    },
+    {
+      "confidence": 60,
+      "winRate": 33.33,
+      "expectancy": -0.01,
+      "completedTrades": 3,
+      "reliable": false,
+      "positionSizeMultiplier": 0,
+      "capitalAllocationPercent": 0,
+      "riskPerTradePercent": 0,
+      "recommendation": "WATCH"
+    },
+    {
+      "confidence": 76.95,
+      "winRate": 0,
+      "expectancy": 0,
+      "completedTrades": 0,
+      "reliable": false,
+      "positionSizeMultiplier": 0,
+      "capitalAllocationPercent": 0,
+      "riskPerTradePercent": 0,
+      "recommendation": "WATCH"
+    },
+    {
+      "confidence": 73.95,
+      "winRate": 0,
+      "expectancy": 0,
+      "completedTrades": 0,
+      "reliable": false,
+      "positionSizeMultiplier": 0,
+      "capitalAllocationPercent": 0,
+      "riskPerTradePercent": 0,
+      "recommendation": "WATCH"
+    },
+    {
+      "confidence": 65.41,
+      "winRate": 0,
+      "expectancy": 0,
+      "completedTrades": 0,
+      "reliable": false,
+      "positionSizeMultiplier": 0,
+      "capitalAllocationPercent": 0,
+      "riskPerTradePercent": 0,
+      "recommendation": "WATCH"
+    },
+    {
+      "confidence": 51,
+      "winRate": 0,
+      "expectancy": 0,
+      "completedTrades": 0,
+      "reliable": false,
+      "positionSizeMultiplier": 0,
+      "capitalAllocationPercent": 0,
+      "riskPerTradePercent": 0,
+      "recommendation": "WATCH"
+    }
+  ]
+}

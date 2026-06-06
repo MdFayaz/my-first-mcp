@@ -1,3 +1,3 @@
-import { generateVolatilityAnalytics } from "./performance/volatilityAnalytics.js";
+import { generateVolatilityAnalytics } from "./analytics/volatilityAnalytics.js";
 
 generateVolatilityAnalytics();

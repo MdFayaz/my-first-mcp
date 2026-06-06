@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-05-31T08:52:05.125Z",
+  "timestamp": "2026-06-04T01:27:00.781Z",
   "bestSymbols": [
     {
       "symbol": "ITC.NS",
       "winRate": "100.00",
-      "totalSignals": 50
+      "totalSignals": 51
     },
     {
       "symbol": "RELIANCE.NS",
       "winRate": "100.00",
-      "totalSignals": 50
+      "totalSignals": 51
     },
     {
       "symbol": "BHARTIARTL.NS",
       "winRate": "100.00",
-      "totalSignals": 50
+      "totalSignals": 51
     },
     {
       "symbol": "HDFCBANK.NS",
       "winRate": "100.00",
-      "totalSignals": 50
+      "totalSignals": 51
     },
     {
       "symbol": "TCS.NS",
-      "winRate": "96.00",
-      "totalSignals": 50
+      "winRate": "96.08",
+      "totalSignals": 51
+    },
+    {
+      "symbol": "INFY.NS",
+      "winRate": "88.24",
+      "totalSignals": 51
     },
     {
       "symbol": "LT.NS",
-      "winRate": "42.00",
-      "totalSignals": 50
+      "winRate": "41.18",
+      "totalSignals": 51
     },
     {
       "symbol": "SBIN.NS",
-      "winRate": "42.00",
-      "totalSignals": 50
+      "winRate": "41.18",
+      "totalSignals": 51
     },
     {
       "symbol": "AXISBANK.NS",
       "winRate": "0.00",
-      "totalSignals": 50
-    },
-    {
-      "symbol": "INFY.NS",
-      "winRate": "0.00",
-      "totalSignals": 50
+      "totalSignals": 51
     },
     {
       "symbol": "ICICIBANK.NS",
       "winRate": "0.00",
-      "totalSignals": 50
+      "totalSignals": 51
     }
   ],
   "bestSignals": [
@@ -60,8 +60,13 @@
     },
     {
       "signal": "STRONG SELL",
-      "winRate": "87.12",
-      "totalSignals": 264
+      "winRate": "87.04",
+      "totalSignals": 270
+    },
+    {
+      "signal": "SELL",
+      "winRate": "62.22",
+      "totalSignals": 135
     },
     {
       "signal": "STRONG BUY",
@@ -69,22 +74,17 @@
       "totalSignals": 11
     },
     {
-      "signal": "SELL",
-      "winRate": "29.32",
-      "totalSignals": 133
-    },
-    {
       "signal": "HOLD",
       "winRate": "0.00",
-      "totalSignals": 77
+      "totalSignals": 79
     }
   ],
-  "qualifiedAccuracy": "69.82%",
+  "qualifiedAccuracy": "80.14%",
   "gradeDistribution": {
-    "A+": 149,
-    "A": 141,
-    "B": 0,
-    "C": 176,
-    "FAILED": 34
+    "A+": 153,
+    "A": 142,
+    "B": 45,
+    "C": 130,
+    "FAILED": 40
   }
 }

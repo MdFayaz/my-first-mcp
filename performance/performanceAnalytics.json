@@ -1,0 +1,91 @@
+{
+  "overall": {
+    "totalSignals": 1,
+    "winningSignals": 1,
+    "losingSignals": 0,
+    "winRate": 100,
+    "lossRate": 0,
+    "averageReturn": 5.8,
+    "averageWinner": 5.8,
+    "averageLoser": 0,
+    "profitFactor": -1
+  },
+  "bySignal": {
+    "BUY": {
+      "totalSignals": 1,
+      "winningSignals": 1,
+      "losingSignals": 0,
+      "winRate": 100,
+      "lossRate": 0,
+      "averageReturn": 5.8,
+      "averageWinner": 5.8,
+      "averageLoser": 0,
+      "profitFactor": -1
+    }
+  },
+  "byQualification": {
+    "YES": {
+      "totalSignals": 1,
+      "winningSignals": 1,
+      "losingSignals": 0,
+      "winRate": 100,
+      "lossRate": 0,
+      "averageReturn": 5.8,
+      "averageWinner": 5.8,
+      "averageLoser": 0,
+      "profitFactor": -1
+    }
+  },
+  "byRegime": {
+    "TREND": {
+      "totalSignals": 1,
+      "winningSignals": 1,
+      "losingSignals": 0,
+      "winRate": 100,
+      "lossRate": 0,
+      "averageReturn": 5.8,
+      "averageWinner": 5.8,
+      "averageLoser": 0,
+      "profitFactor": -1
+    }
+  },
+  "byEnvironment": {
+    "TREND_NORMAL_VOLATILITY": {
+      "totalSignals": 1,
+      "winningSignals": 1,
+      "losingSignals": 0,
+      "winRate": 100,
+      "lossRate": 0,
+      "averageReturn": 5.8,
+      "averageWinner": 5.8,
+      "averageLoser": 0,
+      "profitFactor": -1
+    }
+  },
+  "byVolatilityRegime": {
+    "NORMAL_VOLATILITY": {
+      "totalSignals": 1,
+      "winningSignals": 1,
+      "losingSignals": 0,
+      "winRate": 100,
+      "lossRate": 0,
+      "averageReturn": 5.8,
+      "averageWinner": 5.8,
+      "averageLoser": 0,
+      "profitFactor": -1
+    }
+  },
+  "byConfidenceBucket": {
+    "80-89": {
+      "totalSignals": 1,
+      "winningSignals": 1,
+      "losingSignals": 0,
+      "winRate": 100,
+      "lossRate": 0,
+      "averageReturn": 5.8,
+      "averageWinner": 5.8,
+      "averageLoser": 0,
+      "profitFactor": -1
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2026-06-05T10:00:53.786Z",
+  "qualificationFeedback": {
+    "recommendation": "KEEP_QUALIFICATION_FILTER",
+    "qualifiedWinRate": 100,
+    "unqualifiedWinRate": 0
+  },
+  "confidenceFeedback": {
+    "bestBucket": "80-89",
+    "bestWinRate": 100
+  },
+  "regimeFeedback": {
+    "bestRegime": "TREND",
+    "bestWinRate": 100
+  },
+  "environmentFeedback": {
+    "bestEnvironment": "TREND_NORMAL_VOLATILITY",
+    "bestWinRate": 100
+  },
+  "volatilityFeedback": {
+    "bestVolatilityRegime": "NORMAL_VOLATILITY",
+    "bestWinRate": 100
+  }
+}

@@ -51,6 +51,36 @@ const VOLATILITY_ANALYTICS_PATH = path.join(
 	"signalHistory",
 	"volatilityAnalytics.json",
 );
+
+const CONFIDENCE_CALIBRATION_PATH = path.join(
+	process.cwd(),
+	"signalHistory",
+	"confidenceCalibration.json",
+);
+
+const POSITION_SIZING_PATH = path.join(
+	process.cwd(),
+	"signalHistory",
+	"positionSizing.json",
+);
+
+const RISK_REWARD_PATH = path.join(
+	process.cwd(),
+	"signalHistory",
+	"riskRewardOptimization.json",
+);
+
+const HOLDING_PERIOD_PATH = path.join(
+	process.cwd(),
+	"signalHistory",
+	"holdingPeriodAnalytics.json",
+);
+
+const EXIT_SUMMARY_PATH = path.join(
+	process.cwd(),
+	"signalHistory",
+	"exitAnalyticsSummary.json",
+);
 // ======================
 // EXPORT FUNCTION
 // ======================
@@ -305,9 +335,8 @@ export async function exportScannerResults(results: any[]) {
 
 	sheet.autoFilter = {
 		from: "A1",
-		to: "AP1",
+		to: `${sheet.getColumn(sheet.columnCount).letter}1`,
 	};
-
 	// ======================
 	// FREEZE HEADER
 	// ======================
@@ -816,6 +845,16 @@ export async function exportScannerResults(results: any[]) {
 
 	let volatilityAnalytics: any[] = [];
 
+	let confidenceCalibration: any = {};
+
+	let positionSizing: any = {};
+
+	let riskReward: any = {};
+
+	let holdingPeriod: any = {};
+
+	let exitSummary: any = {};
+
 	try {
 		if (fs.existsSync(VOLATILITY_ANALYTICS_PATH)) {
 			volatilityAnalytics = JSON.parse(
@@ -838,6 +877,30 @@ export async function exportScannerResults(results: any[]) {
 			environmentAnalytics = JSON.parse(
 				fs.readFileSync(ENVIRONMENT_ANALYTICS_PATH, "utf-8"),
 			);
+		}
+
+		if (fs.existsSync(CONFIDENCE_CALIBRATION_PATH)) {
+			confidenceCalibration = JSON.parse(
+				fs.readFileSync(CONFIDENCE_CALIBRATION_PATH, "utf-8"),
+			);
+		}
+
+		if (fs.existsSync(POSITION_SIZING_PATH)) {
+			positionSizing = JSON.parse(
+				fs.readFileSync(POSITION_SIZING_PATH, "utf-8"),
+			);
+		}
+
+		if (fs.existsSync(RISK_REWARD_PATH)) {
+			riskReward = JSON.parse(fs.readFileSync(RISK_REWARD_PATH, "utf-8"));
+		}
+
+		if (fs.existsSync(HOLDING_PERIOD_PATH)) {
+			holdingPeriod = JSON.parse(fs.readFileSync(HOLDING_PERIOD_PATH, "utf-8"));
+		}
+
+		if (fs.existsSync(EXIT_SUMMARY_PATH)) {
+			exitSummary = JSON.parse(fs.readFileSync(EXIT_SUMMARY_PATH, "utf-8"));
 		}
 	} catch {
 		console.log("Analytics dashboard load failed");
@@ -1369,6 +1432,271 @@ export async function exportScannerResults(results: any[]) {
 				});
 			}
 		});
+
+	// =====================================================
+	// SHEET 12 — Confidence Calibration
+	// =====================================================
+
+	const confidenceSheet = workbook.addWorksheet("Confidence Calibration");
+
+	confidenceSheet.columns = [
+		{
+			header: "Confidence",
+			key: "confidence",
+			width: 15,
+		},
+		{
+			header: "Win Rate",
+			key: "winRate",
+			width: 15,
+		},
+		{
+			header: "Completed Trades",
+			key: "completedTrades",
+			width: 18,
+		},
+		{
+			header: "Reliable",
+			key: "reliable",
+			width: 12,
+		},
+		{
+			header: "Average Return",
+			key: "averageReturn",
+			width: 18,
+		},
+		{
+			header: "Expectancy",
+			key: "expectancy",
+			width: 15,
+		},
+	];
+	confidenceSheet.getRow(1).font = {
+		bold: true,
+		color: {
+			argb: "FFFFFF",
+		},
+	};
+
+	confidenceSheet.getRow(1).fill = {
+		type: "pattern",
+		pattern: "solid",
+		fgColor: {
+			argb: "1F4E78",
+		},
+	};
+
+	confidenceSheet.views = [
+		{
+			state: "frozen",
+			ySplit: 1,
+		},
+	];
+	const confidenceRows = [
+		...(confidenceCalibration.confidenceStats ?? []),
+	].sort((a, b) => b.completedTrades - a.completedTrades);
+
+	confidenceRows.forEach((row: any) => {
+		confidenceSheet.addRow(row);
+	});
+
+	// =====================================================
+	// SHEET 13 — Position Sizing
+	// =====================================================
+	const sizingSheet = workbook.addWorksheet("Position Sizing");
+
+	sizingSheet.columns = [
+		{
+			header: "Confidence",
+			key: "confidence",
+			width: 15,
+		},
+		{
+			header: "Win Rate",
+			key: "winRate",
+			width: 15,
+		},
+		{
+			header: "Recommendation",
+			key: "recommendation",
+			width: 20,
+		},
+		{
+			header: "Allocation %",
+			key: "capitalAllocationPercent",
+			width: 18,
+		},
+		{
+			header: "Risk %",
+			key: "riskPerTradePercent",
+			width: 15,
+		},
+	];
+
+	(positionSizing.rules ?? []).forEach((row: any) => sizingSheet.addRow(row));
+
+	// =====================================================
+	// SHEET 14 — Risk Reward
+	// =====================================================
+	const rrSheet = workbook.addWorksheet("Risk Reward");
+
+	rrSheet.columns = [
+		{
+			header: "Metric",
+			key: "metric",
+			width: 30,
+		},
+		{
+			header: "Value",
+			key: "value",
+			width: 20,
+		},
+	];
+
+	Object.entries(riskReward).forEach(([key, value]) => {
+		rrSheet.addRow({
+			metric: key,
+			value,
+		});
+	});
+	// =====================================================
+	// SHEET 15 — Holiding Period
+	// =====================================================
+
+	const holdingSheet = workbook.addWorksheet("Holding Analytics");
+	holdingSheet.columns = [
+		{
+			header: "Metric",
+			key: "metric",
+			width: 30,
+		},
+		{
+			header: "Value",
+			key: "value",
+			width: 20,
+		},
+	];
+
+	Object.entries(holdingPeriod).forEach(([key, value]) => {
+		holdingSheet.addRow({
+			metric: key,
+			value,
+		});
+	});
+
+	// =====================================================
+	// SHEET 16 — Exit Analytics Summary
+	// =====================================================
+	const exitSheet = workbook.addWorksheet("Exit Summary");
+	exitSheet.columns = [
+		{
+			header: "Metric",
+			key: "metric",
+			width: 30,
+		},
+		{
+			header: "Value",
+			key: "value",
+			width: 20,
+		},
+	];
+
+	Object.entries(exitSummary).forEach(([key, value]) => {
+		exitSheet.addRow({
+			metric: key,
+			value,
+		});
+	});
+
+	// =====================================================
+	// SHEET 17 — Adaptive Recommendations
+	// =====================================================
+
+	const recommendationsSheet = workbook.addWorksheet(
+		"Adaptive Recommendations",
+	);
+
+	recommendationsSheet.columns = [
+		{
+			header: "Type",
+			key: "type",
+			width: 20,
+		},
+		{
+			header: "Value",
+			key: "value",
+			width: 20,
+		},
+		{
+			header: "Action",
+			key: "action",
+			width: 20,
+		},
+		{
+			header: "Reason",
+			key: "reason",
+			width: 60,
+		},
+	];
+	recommendationsSheet.getRow(1).font = {
+		bold: true,
+		color: {
+			argb: "FFFFFF",
+		},
+	};
+
+	recommendationsSheet.getRow(1).fill = {
+		type: "pattern",
+		pattern: "solid",
+		fgColor: {
+			argb: "1F4E78",
+		},
+	};
+	(adaptiveWeights.recommendations ?? []).forEach((r: any) => {
+		const row = recommendationsSheet.addRow(r);
+
+		if (r.action === "BOOST") {
+			row.eachCell((cell) => {
+				cell.fill = {
+					type: "pattern",
+					pattern: "solid",
+					fgColor: {
+						argb: "C6EFCE",
+					},
+				};
+			});
+		}
+
+		if (r.action === "PENALIZE") {
+			row.eachCell((cell) => {
+				cell.fill = {
+					type: "pattern",
+					pattern: "solid",
+					fgColor: {
+						argb: "F4CCCC",
+					},
+				};
+			});
+		}
+
+		if (r.action === "WATCH") {
+			row.eachCell((cell) => {
+				cell.fill = {
+					type: "pattern",
+					pattern: "solid",
+					fgColor: {
+						argb: "FFF2CC",
+					},
+				};
+			});
+		}
+	});
+	recommendationsSheet.views = [
+		{
+			state: "frozen",
+			ySplit: 1,
+		},
+	];
 	// =====================================================
 	// SAVE
 	// =====================================================

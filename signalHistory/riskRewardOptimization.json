@@ -1,0 +1,9 @@
+{
+  "generatedAt": "2026-06-04T01:27:00.832Z",
+  "sampleSize": 260,
+  "recommendedStopLoss": 0.86,
+  "conservativeTarget": 2.38,
+  "aggressiveTarget": 2.98,
+  "riskRewardRatioConservative": 2.77,
+  "riskRewardRatioAggressive": 3.47
+}

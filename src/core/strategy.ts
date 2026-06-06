@@ -180,7 +180,7 @@ export async function generateMultiTimeframeSignal(symbol: string) {
 		// ======================
 
 		VWAP: tf5m.VWAP,
-
+		entryPrice: tf5m.currentPrice,
 		reasons: prioritizedReasons,
 		RVOL: tf5m.RVOL,
 		VolumeExpansion: tf5m.VolumeExpansion,

@@ -1,43 +1,43 @@
 {
   "UNKNOWN": {
     "totalSignals": 300,
-    "wins": 190,
-    "losses": 14,
-    "winRate": 93.14
+    "wins": 214,
+    "losses": 19,
+    "winRate": 91.85
   },
   "RANGE_COMPRESSION": {
-    "totalSignals": 20,
+    "totalSignals": 21,
     "wins": 0,
     "losses": 0,
     "winRate": 0
   },
   "CHOPPY_NORMAL_VOLATILITY": {
-    "totalSignals": 60,
-    "wins": 20,
+    "totalSignals": 63,
+    "wins": 21,
     "losses": 0,
     "winRate": 100
   },
   "CHOPPY_EXPANSION": {
-    "totalSignals": 20,
-    "wins": 0,
+    "totalSignals": 21,
+    "wins": 21,
     "losses": 0,
-    "winRate": 0
+    "winRate": 100
   },
   "RANGE_NORMAL": {
-    "totalSignals": 20,
+    "totalSignals": 21,
     "wins": 0,
-    "losses": 20,
+    "losses": 21,
     "winRate": 0
   },
   "STRONG_TREND_NORMAL_VOLATILITY": {
-    "totalSignals": 40,
-    "wins": 40,
+    "totalSignals": 42,
+    "wins": 42,
     "losses": 0,
     "winRate": 100
   },
   "TREND_NORMAL_VOLATILITY": {
-    "totalSignals": 40,
-    "wins": 40,
+    "totalSignals": 42,
+    "wins": 42,
     "losses": 0,
     "winRate": 100
   }

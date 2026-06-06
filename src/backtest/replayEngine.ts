@@ -9,12 +9,14 @@ import { calculateATR } from "../core/indicators/atr.js";
 import { calculateMACD } from "../core/indicators/macd.js";
 
 import type { Candle } from "../core/indicators/types.js";
-import { logger } from "../utils/logger.js";
+import { Logger } from "../utils/logger.js";
 
 import { aggregateCandles } from "./timeframeAggregator.js";
 import { buildHTFAnalysis } from "./buildHTFAnalysis.js";
 
 export async function replayMarket(candles: Candle[]) {
+	const logger = new Logger();
+	logger.info("Replay engine started");
 	console.log("TOTAL CANDLES:", candles.length);
 	// Minimum candles required
 	const warmup = 60;

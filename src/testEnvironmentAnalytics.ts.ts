@@ -1,3 +1,3 @@
-import { generateEnvironmentAnalytics } from "./performance/environmentAnalytics.js";
+import { generateEnvironmentAnalytics } from "./analytics/environmentAnalytics.js";
 
 generateEnvironmentAnalytics();

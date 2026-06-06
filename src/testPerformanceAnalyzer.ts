@@ -1,3 +1,3 @@
-import { analyzePerformance } from "./performance/performanceAnalyzer.js";
+import { analyzePerformance } from "./analytics/performanceAnalyzer.js";
 
 analyzePerformance();

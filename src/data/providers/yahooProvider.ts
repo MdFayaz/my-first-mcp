@@ -32,6 +32,37 @@ export class YahooProvider implements MarketDataProvider {
 			})) || []
 		);
 	}
+
+	async getHistoricalCandles(
+		symbol: string,
+		interval: MarketInterval,
+		startDate: string,
+		endDate: string,
+	): Promise<Candle[]> {
+		const result: any = await yahooFinance.chart(symbol, {
+			interval,
+
+			period1: startDate,
+
+			period2: endDate,
+		});
+
+		return (
+			result.quotes?.map((candle: any) => ({
+				timestamp: candle.date?.toISOString(),
+
+				open: candle.open ?? 0,
+
+				high: candle.high ?? 0,
+
+				low: candle.low ?? 0,
+
+				close: candle.close ?? 0,
+
+				volume: candle.volume ?? 0,
+			})) || []
+		);
+	}
 }
 
 function getPeriod1(range: MarketRange): string {
